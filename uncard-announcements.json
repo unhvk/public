@@ -1,38 +1,31 @@
 {
   "announcements": [
     {
-      "id": "1",
-      "title": "Elevated Payment Errors",
-      "type": "incident",
-      "date": "2026-04-30",
-      "updates": [
-        {
-          "status": "resolved",
-          "message": "This incident has been resolved.",
-          "date": "Apr 30, 19:45 UTC"
-        },
-        {
-          "status": "monitoring",
-          "message": "A fix has been implemented and we are monitoring the results.",
-          "date": "Apr 30, 19:36 UTC"
-        },
-        {
-          "status": "identified",
-          "message": "The issue has been identified and a fix is being implemented.",
-          "date": "Apr 30, 19:22 UTC"
-        },
-        {
-          "status": "investigating",
-          "message": "We are currently investigating this issue.",
-          "date": "Apr 30, 18:57 UTC"
-        }
-      ]
+      "id": "4",
+      "title": "No incidents reported.",
+      "type": "info",
+      "date": "2026-04-04",
+      "updates": []
+    },
+    {
+      "id": "3",
+      "title": "No incidents reported.",
+      "type": "info",
+      "date": "2026-04-03",
+      "updates": []
     },
     {
       "id": "2",
       "title": "No incidents reported.",
       "type": "info",
-      "date": "2026-05-02",
+      "date": "2026-04-02",
+      "updates": []
+    },
+    {
+      "id": "1",
+      "title": "No incidents reported.",
+      "type": "info",
+      "date": "2026-04-01",
       "updates": []
     }
   ]
