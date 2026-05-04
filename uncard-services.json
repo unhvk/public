@@ -3,7 +3,7 @@
     {
       "slug": "uncard-api",
       "name": "API",
-      "url": "https://api.uncard.cc/health",
+      "url": "https://uncard.cc",
       "method": "GET",
       "body": null,
       "error": "API is experiencing issues"
