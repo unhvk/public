@@ -3,7 +3,7 @@
     {
       "slug": "uncard-api",
       "name": "API",
-      "url": "https://uncard.cc",
+      "url": "https://github.com/unhvk/public/blob/main/uncard-services.json",
       "method": "GET",
       "body": null,
       "error": "API is experiencing issues"
