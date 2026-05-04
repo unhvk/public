@@ -2,19 +2,19 @@
   "services": [
     {
       "slug": "uncard-api",
-      "name": "UnCard API",
-      "url": "https://cb.uncard.cc/health",
+      "name": "API",
+      "url": "https://api.uncard.cc/health",
       "method": "GET",
       "body": null,
-      "error": "Card services are experiencing issues"
+      "error": "API is experiencing issues"
     },
     {
       "slug": "ungateway",
-      "name": "Payment Gateway",
+      "name": "Deposits",
       "url": "https://api.ungateway.cc/health",
       "method": "GET",
       "body": null,
-      "error": "Payment processing is experiencing issues"
+      "error": "Deposits are experiencing issues"
     },
     {
       "slug": "website",
@@ -23,6 +23,22 @@
       "method": "GET",
       "body": null,
       "error": "Website is experiencing issues"
+    },
+    {
+      "slug": "card-management",
+      "name": "Card Management",
+      "url": "https://cb.uncard.cc/health",
+      "method": "GET",
+      "body": null,
+      "error": "Card management is experiencing issues"
+    },
+    {
+      "slug": "card-issuance",
+      "name": "Card Issuance",
+      "url": "https://cb.uncard.cc/health",
+      "method": "GET",
+      "body": null,
+      "error": "Card issuance is experiencing issues"
     }
   ]
 }
