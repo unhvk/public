@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "slug": "uncard-api",
+      "name": "UnCard API",
+      "url": "https://cb.uncard.cc/health",
+      "method": "GET",
+      "body": null,
+      "error": "Card services are experiencing issues"
+    },
+    {
+      "slug": "ungateway",
+      "name": "Payment Gateway",
+      "url": "https://api.ungateway.cc/health",
+      "method": "GET",
+      "body": null,
+      "error": "Payment processing is experiencing issues"
+    },
+    {
+      "slug": "website",
+      "name": "Website",
+      "url": "https://uncard.cc",
+      "method": "GET",
+      "body": null,
+      "error": "Website is experiencing issues"
+    }
+  ]
+}
