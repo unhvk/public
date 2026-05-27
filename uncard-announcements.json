@@ -6,6 +6,13 @@
       "type": "info",
       "date": "2026-04-24",
       "updates": []
+    },
+       {
+      "id": "2",
+      "title": "Technical maintenance.",
+      "type": "info",
+      "date": "2026-05-27",
+      "updates": []
     }
   ]
 }
